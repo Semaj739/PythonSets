@@ -102,6 +102,7 @@ def view_my_playlist():
     # HINT: display_songs(my_playlist, "My Playlist")
 
     # YOUR CODE HERE:
+    display_songs(my_playlist, "My Playlist")
 
     # TODO: Also display the number of songs using len()
     # HINT: print(f"Total: {len(my_playlist)} songs")
